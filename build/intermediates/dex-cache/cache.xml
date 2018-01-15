@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/44107d1b7802e3d93aa828a640a50bebbe926f5c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/user/Downloads/FloatingLabels/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_75fa63cda4190284b73b50125a6b1e0265eefcf1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/7948c855f0b2dfed2219ce5d8cdb57c1fc00a7f8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/user/Downloads/FloatingLabels/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e84594dbdd4f917d08f3cd11691f6e753d219054/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/FloatingLabels/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e2ffe19e18e2730938abb8559d69d6e167d5f948">
+        <dex dex="/Users/user/Downloads/FloatingLabels/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5faff551bdaaa75449fc6c4f438bc778b99fc392/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/FloatingLabels/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/user/Downloads/FloatingLabels/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d4926372aabfe83be69d966832a8595f3aa85bee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/user/Downloads/FloatingLabels/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.1_fec45a56cf30bd2e58e7e2989ce8c15ad5a9af37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/744c053e1757f2346259510e2cdda5bd8a97da3d/output/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/user/Downloads/FloatingLabels/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.1_18550d63d2b7d9f54df0b93eed8960240cef9574/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/744c053e1757f2346259510e2cdda5bd8a97da3d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/user/Downloads/FloatingLabels/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_781302a82e82fd66956da2075ecf139b0f99b639/classes.dex" />
+    </item>
+
+</items>
