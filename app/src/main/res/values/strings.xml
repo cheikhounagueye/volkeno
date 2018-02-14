@@ -12,4 +12,7 @@
     <string name="err_msg_password">Enter the password</string>
     <string name="hint_noms">Nom </string>
     <string name="connection">CONNEXION</string>
+    <string name="hint_register">INSCRIPTION</string>
+    <string name="nick_name">Prenom</string>
+    <string name="name_account">MON COMPTE</string>
 </resources>

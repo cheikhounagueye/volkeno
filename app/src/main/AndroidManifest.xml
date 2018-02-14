@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="info.androidhive.floatinglabels" >
+    package="info.androidhive.floatinglabels">
 
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
-        android:theme="@style/MyMaterialTheme" >
+        android:theme="@style/MyMaterialTheme">
         <activity
-            android:name=".MainActivity"
+            android:name=".DepotActivity"
             android:label="@string/app_name"
             android:screenOrientation="portrait">
             <intent-filter>
@@ -17,6 +17,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <!-- <activity android:name=".RegsiterActivity" ></activity> -->
+        <!-- <activity android:name=".DepotActivity"></activity> -->
+        <activity android:name=".RetraitActivity" />
+        <activity android:name=".TransfertActivity"></activity>
     </application>
 
 </manifest>

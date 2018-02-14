@@ -1,5 +1,5 @@
 <resources>
-    <color name="white">#fff</color>
+    <color name="white">#ffffff</color>
     <style name="MyMaterialTheme" parent="MyMaterialTheme.Base">
 
     </style>
